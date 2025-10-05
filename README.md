@@ -76,7 +76,7 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-* **Your Name**
+* **SHAIK RAFI**
 * GitHub: [@Roughyyy08](https://github.com/yourusername)
 
 ---

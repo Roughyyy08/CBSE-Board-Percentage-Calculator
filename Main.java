@@ -23,7 +23,7 @@ public class Main {
         System.out.println("Marks in Second Language");
         int l = sc.nextInt();
 
-        float percentage = ((m+p+c+e+l)*100)/(totalmarks*5);
+        float percentage = ((m+p+c+e+l)*100f)/(totalmarks*5);
 
         System.out.println("Your Percentage is : " + percentage);
         sc.close();
